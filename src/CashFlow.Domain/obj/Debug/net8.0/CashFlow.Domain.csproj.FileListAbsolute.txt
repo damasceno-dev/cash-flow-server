@@ -1,0 +1,11 @@
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.deps.json
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.pdb
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfoInputs.cache
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfo.cs
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FU3Ups3Hyy9+iR+A0c9SB1X2b7KLAxWJkanwEq4YaVcwt9+iDBtHsWkkcjTGtSi4Q+UVnJPAaGs/d30lKyld9g==",
+  "success": true,
+  "projectFilePath": "/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/fernandodamasceno/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
