@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashFlow.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce629809b29e96de14703e4a2d2aa2a261aca53a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac0fbcc2213674519d6ba99a1bf919ee514c911")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashFlow.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashFlow.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

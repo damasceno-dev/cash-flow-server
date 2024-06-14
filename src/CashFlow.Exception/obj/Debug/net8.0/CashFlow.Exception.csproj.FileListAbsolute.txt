@@ -9,3 +9,4 @@
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/refint/CashFlow.Exception.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.pdb
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/ref/CashFlow.Exception.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.sourcelink.json
