@@ -14,22 +14,12 @@ public class RegisterExpenseUseCase
 
     private void Validate(RequestRegisterExpenseJson request)
     {
-        if (string.IsNullOrWhiteSpace(request.Title))
+        var validator = new RegisterExpenseValidator();
+        var result = validator.Validate(request);
+        if (result.IsValid == false)
         {
-            throw new ArgumentException("The title is required.");
+            List<string> errorList = result.Errors.Select(f => f.ErrorMessage).ToList();
+            throw new ArgumentException();
         }
-        if (request.Amount <= 0)
-        {
-            throw new ArgumentException("The Amount must be greater than zero.");
-        }
-        if (DateTime.Compare(request.Date, DateTime.UtcNow) > 0)
-        {
-            throw new ArgumentException("Can't save for future dates.");
-        }
-        if (Enum.IsDefined(typeof(PaymentType), request.PaymentType) == false)
-        {
-            throw new ArgumentException("The payment type is not valid.");
-        }
-
     }
 }
