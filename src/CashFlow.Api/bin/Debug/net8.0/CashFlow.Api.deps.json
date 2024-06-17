@@ -1566,6 +1566,17 @@
       "CashFlow.Exception/1.0.0": {
         "runtime": {
           "CashFlow.Exception.dll": {}
+        },
+        "resources": {
+          "pt-PT/CashFlow.Exception.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "pt-BR/CashFlow.Exception.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "fr/CashFlow.Exception.resources.dll": {
+            "locale": "fr"
+          }
         }
       },
       "CashFlow.Infrastructure/1.0.0": {
