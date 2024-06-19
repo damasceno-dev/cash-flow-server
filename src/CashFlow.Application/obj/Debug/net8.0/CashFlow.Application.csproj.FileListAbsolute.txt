@@ -21,3 +21,5 @@
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Infrastructure.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Infrastructure.pdb

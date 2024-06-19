@@ -10,3 +10,7 @@
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.sourcelink.json
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Communication.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Communication.pdb
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.AssemblyReference.cache
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CopyComplete
