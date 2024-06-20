@@ -1,14 +1,19 @@
-using CashFlow.Communication.Enums;
 using CashFlow.Communication.Requests;
 using CashFlow.Communication.Responses;
 using CashFlow.Domain.Entities;
+using CashFlow.Domain.Repositories.Expenses;
 using CashFlow.Exception.ExceptionBase;
-
 
 namespace CashFlow.Application.UseCases.Expenses.Register;
 
-public class RegisterExpenseUseCase
+public class RegisterExpenseUseCase : IRegisterExpenseUseCase
 {
+    private readonly IExpensesRepository _repository;
+
+    public RegisterExpenseUseCase(IExpensesRepository repository)
+    {
+        _repository = repository;
+    }
     public ResponseRegisterExpenseJson Execute(RequestRegisterExpenseJson request)
     {
         Validate(request);
@@ -20,16 +25,18 @@ public class RegisterExpenseUseCase
             Amount = request.Amount,
             PaymentType = request.PaymentType
         };
+        
+        _repository.Add(entity);
 
-        //Antes da injeção de dependência:
-        // referenciar o projeto de infra e using CashFlow.Infrastructure.DataAccess;
+        //Before dependency injection:
+        // reference infra project and import using CashFlow.Infrastructure.DataAccess;
         // var dbContext = new CashFlowDbContext();
         // dbContext.Expenses.Add(entity);
         // dbContext.SaveChanges();
         
         return new ResponseRegisterExpenseJson();
     }
-
+    
     private void Validate(RequestRegisterExpenseJson request)
     {
         var validator = new RegisterExpenseValidator();
