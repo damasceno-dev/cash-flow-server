@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xuOCdsnGXeqC10RsWs499ZuE/85J+HkGoTZNS20grb3hXBRlMzrH0PIKWBMPEhYOOBDX0cwoKpsFP9Br1nyQPw==",
+  "dgSpecHash": "tZ1t6CfCo4S7d89ohu5xFGC1JxVbz/RNL5REUBmaohk0Bl/YspjGPNrqWKk9dyOLRkIoUuxUAHJvzVaYjOqjiQ==",
   "success": true,
   "projectFilePath": "/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Api/CashFlow.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/fernandodamasceno/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/fernandodamasceno/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/Users/fernandodamasceno/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/fernandodamasceno/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

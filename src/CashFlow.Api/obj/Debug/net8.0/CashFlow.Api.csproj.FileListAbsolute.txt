@@ -244,3 +244,4 @@
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/Npgsql.dll
 /Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/AutoMapper.dll

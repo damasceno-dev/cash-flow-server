@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NoClcVv6eoobFa9Jr1vlTTK/rQ7s8obgriH4/GJ2HefEH8k8HsFfnH5Ie05iaim3CQxSaUFtDOaInEIqg3uw7A==",
+  "dgSpecHash": "SIyMCM1KI8U46rC/p8/kxXc1m0ZgsE9+3EaHfrDrYYZbr+u+J8ajigHYn9wCh0BaIXidPKwHt4nquwWuSgY5LQ==",
   "success": true,
   "projectFilePath": "/Users/fernandodamasceno/Coding/CursosRocketSeat/Curso2024/CSharp/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/fernandodamasceno/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512"
+    "/Users/fernandodamasceno/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/fernandodamasceno/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/fernandodamasceno/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/fernandodamasceno/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/fernandodamasceno/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/fernandodamasceno/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
