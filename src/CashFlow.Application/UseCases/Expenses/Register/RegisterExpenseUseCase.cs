@@ -17,7 +17,7 @@ public class RegisterExpenseUseCase : IRegisterExpenseUseCase
         _repository = repository;
         _unitOfWork = unitOfWork;
     }
-    public ResponseRegisterExpenseJson Execute(RequestRegisterExpenseJson request)
+    public async Task<ResponseRegisterExpenseJson> Execute(RequestRegisterExpenseJson request)
     {
         Validate(request);
         var entity = new Expense
@@ -29,8 +29,8 @@ public class RegisterExpenseUseCase : IRegisterExpenseUseCase
             PaymentType = request.PaymentType
         };
         
-        _repository.Add(entity);
-        _unitOfWork.Commit();
+        await _repository.Add(entity);
+        await _unitOfWork.Commit();
 
         //Before dependency injection:
         // reference infra project and import using CashFlow.Infrastructure.DataAccess;
